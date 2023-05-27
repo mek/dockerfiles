@@ -1,7 +1,5 @@
 # A simple base docker image for RH's UBI9 Docker Image
 
-/mek
-
 Redhat has recently made their Universal Base Image (UBI) availabe 
 on the Docker Registery (docker.io/libarary/redhat/ubi9). 
 
